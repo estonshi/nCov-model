@@ -31,7 +31,7 @@ Spreading simulation for coronavirus or other epidemics.
 * 感染开始出现症状的时间：beta\_3\_start
 
 **(3) 结果展示：**
-![markov-results](./image/markov-result.png)
+![markov-results](./image/markov-result-sm.jpg)
 
 结果显示出基本的指数上升与下降趋势。
 
