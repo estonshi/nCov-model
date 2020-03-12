@@ -69,7 +69,7 @@ class PARA():
 	# S to Q time distribution
 	mu_S_to_Q = 1
 	sg_S_to_Q = 0.5
-	# There is no S to R time distribution,
+	# There is no S to R/D time distribution,
 	# because the time are accumulated from A0 status.
 	
 	# Q to R, D
